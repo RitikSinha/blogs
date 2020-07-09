@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/Layout'
-
+//import NotFoundPage from '../img/notfound.jpg'
 const NotFoundPage = () => (
   <Layout>
     <div>
