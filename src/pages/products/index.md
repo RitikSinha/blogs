@@ -24,7 +24,9 @@ main:
   image3:
     alt: fd
     image: /img/fernando-hernandez-jdoofvuduwc-unsplash.jpg
-testimonials: []
+testimonials:
+  - quote: bvmvbm
+    author: vbmvbm
 full_image: /img/3426526.jpg
 pricing:
   heading: df
