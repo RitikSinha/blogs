@@ -6,7 +6,9 @@ title: .
 image: /img/jumbotron.jpg
 description: testhkhj.h.lkhlkh.lkhlh
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/3426526.jpg
+      text: vncnc
   heading: hjh.jhjgh.ll
   description: test
 main:
@@ -27,5 +29,10 @@ full_image: /img/3426526.jpg
 pricing:
   heading: df
   description: fd
-  plans: []
+  plans:
+    - plan: test
+      price: "10"
+      description: kjhkjh
+      items:
+        - hjkjhk
 ---
