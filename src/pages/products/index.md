@@ -2,7 +2,7 @@
 heading: test
 path: /products
 templateKey: product-page
-title: Our Coffee
+title: .
 image: /img/jumbotron.jpg
 description: testhkhj.h.lkhlkh.lkhlh
 intro:
@@ -23,7 +23,7 @@ main:
     alt: fd
     image: /img/fernando-hernandez-jdoofvuduwc-unsplash.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: /img/3426526.jpg
 pricing:
   heading: df
   description: fd
