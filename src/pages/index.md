@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: test
-image: /img/home-jumbotron.jpg
+image: /img/fernando-hernandez-jdoofvuduwc-unsplash.jpg
 heading: test
 subheading: test
 mainpitch:
